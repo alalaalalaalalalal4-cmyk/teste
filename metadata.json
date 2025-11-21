@@ -1,0 +1,5 @@
+{
+  "name": "SkyRunner: AI Parkour",
+  "description": "A 3D first-person parkour game where you traverse neon platforms. Features physics-based movement and AI-generated coaching tips.",
+  "requestFramePermissions": []
+}
